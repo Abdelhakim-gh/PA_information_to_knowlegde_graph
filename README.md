@@ -87,6 +87,116 @@ Centered on Llama 3.1 (8B) and Neo4j, this methodology delivers a robust, scalab
 - The document describes the procedural safeguards necessary to protect public funds
   and maintain the integrity of procurement decisions.
 
+<details>
+<summary><h2>Data description</h2></summary>
+
+> **رقمنة الإجراءات والوثائق والقطع المتعلقة بالمشتريات العامة في المغرب**
+
+the official bulletin (BULLETIN OFFICIEL) Nº 7222, dated 30 moharrem 1445 (17-8-2023), containing a ministerial decree related to the digitization of public procurement procedures in Morocco.
+
+### Introduction
+
+- **Issuing Authority**: Minister Delegate to the Minister of Economy and Finance, in charge of the budget.
+- **References**: Various laws and decrees related to public procurement, electronic transactions, and financial control.
+
+### Chapter I: General Provisions
+
+- **Article 1**: Scope of the decree, including:
+  - Management of the public procurement portal.
+  - Electronic submission and evaluation of bids.
+  - Digitization of financial guarantees.
+- **Article 2**: Definitions of key terms:
+  - **Public Procurement Portal**: The official platform for managing public procurement processes.
+  - **Actors**: Entities involved in the procurement process, such as contracting authorities, bidders, and control agents.
+  - **Financial Guarantees**: Electronic guarantees related to procurement contracts.
+
+### Chapter II: Management of the Public Procurement Portal
+
+- **Article 7**: Responsibilities of the Treasury of the Kingdom:
+  - **Technical Infrastructure**: Ensuring the portal's technical infrastructure is robust and secure.
+  - **Maintenance**: Regular maintenance and updates to the portal.
+  - **Account Management**: Managing user accounts and access permissions.
+  - **Security**: Implementing security measures to protect data and transactions.
+
+### Chapter III: Publication of Documents on the Portal
+
+- **Article 8**: Responsibilities for publishing documents:
+  - **Legislative Texts and Regulations**: Publishing relevant laws and regulations.
+  - **Procurement Plans and Notices**: Publishing procurement plans, notices, and invitations to tender.
+  - **Results of Procurement Processes**: Publishing the results of procurement processes and awarded contracts.
+
+### Chapter IV: Electronic Submission and Withdrawal of Bids
+
+- **Articles 9-14**: Procedures for electronic submission and withdrawal of bids:
+  - **Encryption**: Ensuring the security of submitted bids through encryption.
+  - **Timestamping**: Recording the exact time of submission to ensure deadlines are met.
+  - **Late Submissions**: Handling bids submitted after the deadline, including rejection and notification procedures.
+  - **Bid Withdrawal**: Procedures for bidders to withdraw their bids electronically before the deadline.
+
+### Chapter V: Digitization of Financial Guarantees
+
+- **Article 15**: Electronic processes for financial guarantees:
+  - **Constitution**: Establishing electronic guarantees through authorized organizations.
+  - **Return**: Procedures for returning guarantees to bidders and contract holders upon completion of obligations.
+  - **Authorized Organizations**: Entities authorized to issue and manage electronic guarantees, ensuring their validity and security.
+
+### Chapter VI: Electronic Opening and Evaluation of Bids
+
+- **Articles 16-19**: Procedures for electronically opening and evaluating bids:
+  - **Integrity**: Ensuring the integrity and confidentiality of the bid opening and evaluation process.
+  - **Technical Difficulties**: Handling issues that may arise during the electronic opening and evaluation, including contingency plans and support mechanisms.
+  - **Evaluation Criteria**: Detailed criteria for evaluating bids, ensuring transparency and fairness.
+
+### Chapter VII: Electronic Reverse Auctions
+
+- **Articles 20-42**: Guidelines for conducting electronic reverse auctions:
+  - **Publication of Notices**: Announcing the auction and inviting participants through the public procurement portal.
+  - **Minimum Participants**: Ensuring a minimum number of participants for a valid auction, promoting competition.
+  - **Auction Phases**: Detailed steps and phases of the auction process, including initial bidding, live auction, and final evaluation.
+  - **Bid Submission**: Procedures for submitting bids during the auction, including real-time updates and notifications.
+  - **Auction Closure**: Criteria for closing the auction and determining the winning bid.
+
+### Chapter VIII: Electronic Purchase Orders
+
+- **Articles 43-45**: Conditions and procedures for issuing electronic purchase orders:
+  - **Publication Requirements**: Publishing notices and results of purchase orders on the public procurement portal.
+  - **Evaluation of Bids**: Criteria and procedures for evaluating bids for purchase orders, ensuring transparency and fairness.
+  - **Order Issuance**: Procedures for issuing electronic purchase orders to successful bidders.
+
+### Chapter IX: Digitization of Public Contract Pledges
+
+- **Articles 46-48**: Electronic processes for pledging public contracts:
+  - **Responsibilities**: Roles and responsibilities of contracting authorities, beneficiaries, and payment officers in the electronic pledging process.
+  - **Procedures**: Steps for electronically pledging contracts, including documentation and approval processes.
+  - **Security Measures**: Ensuring the security and validity of electronically pledged contracts.
+
+### Chapter X: Interoperability with Third-Party Systems
+
+- **Articles 49-52**: Integration with external systems:
+  - **Confidentiality**: Ensuring the confidentiality of data exchanged with third-party systems.
+  - **Proper Use**: Guidelines for the proper use of integrated systems and data, ensuring compliance with regulations.
+  - **Technical Standards**: Adopting technical standards for interoperability, promoting seamless integration with external systems.
+
+### Chapter XI: Digitization of Documents and Pieces
+
+- **Articles 53-58**: Electronic establishment, storage, and transmission of documents:
+  - **Electronic Signatures**: Use of electronic signatures to validate documents, ensuring their authenticity and integrity.
+  - **Storage**: Secure storage of electronic documents, ensuring their availability and protection against unauthorized access.
+  - **Transmission**: Procedures for transmitting documents electronically, ensuring secure and efficient communication.
+
+### Chapter XII: Miscellaneous, Transitional, and Final Provisions
+
+- **Articles 59-61**: Additional provisions:
+  - **Exceptions**: Specific exceptions for certain public entities, outlining conditions under which they may be exempt from certain provisions.
+  - **Effective Dates**: Dates when various provisions come into effect, ensuring a smooth transition to the new regulations.
+  - **Abrogation**: Repeal of previous decrees that conflict with the new regulations, ensuring legal consistency.
+
+### Summary
+
+The document establishes a comprehensive framework for the digitization of public procurement processes in Morocco. It aims to enhance transparency, efficiency, and security through the use of digital technologies. The decree covers the management of the public procurement portal, electronic submission and evaluation of bids, digitization of financial guarantees, and interoperability with third-party systems. The detailed guidelines ensure that all aspects of the procurement process are digitized, secure, and compliant with relevant regulations.
+
+</details>
+
 ## Steps
 
 ### Setup
