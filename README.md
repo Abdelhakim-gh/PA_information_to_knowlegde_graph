@@ -55,3 +55,19 @@ The project processes text documents about public administration procedures and 
 ├── progress.json
 └── README.md
 ```
+
+## Dataset
+
+![](dataset/10.png)
+
+- The document highlights the transition to digital procurement processes
+  processes, improving efficiency and transparency.
+- It establishes clear responsibilities for the various stakeholders involved in public
+  public procurement, ensuring accountability.
+- The emphasis on electronic bidding and reverse auctions reflects a modern
+  modern approach to procurement, cutting red tape and simplifying
+  simplifying processes.
+- Strict eligibility criteria and evaluation processes are essential to ensure that public procurement
+  that public procurement is competitive and fair.
+- The document describes the procedural safeguards necessary to protect public funds
+  and maintain the integrity of procurement decisions.
