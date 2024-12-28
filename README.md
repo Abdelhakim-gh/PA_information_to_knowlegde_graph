@@ -6,6 +6,27 @@
 
 The project processes text documents about public administration procedures and regulations to extract entities, relationships and build a knowledge graph that can be queried and analyzed.
 
+### The Particularity of Knowledge Graphs (KGs)
+
+> #### Why Knowledge Graphs (KGs) with RAG and LLMs are Effective ?
+
+**Particularity of Knowledge Graphs (KGs)**
+
+- **Structured Representation**: Organizes data as entities (nodes) and relationships (edges) with semantic meaning.
+- **Semantic Context**: Enables systems to understand data beyond text, using ontologies for context.
+- **Efficient Querying**: Handles complex, multi-hop queries, ideal for interconnected questions.
+- **Transparency**: Provides clear links between data points, enhancing explainability.
+
+**Why Use KGs with RAG and LLMs**
+
+- **Enhanced Retrieval**: RAG retrieves precise, relevant context from KGs, reducing ambiguity.
+- **Accuracy**: Structured data ensures reliable answers, avoiding LLM hallucinations.
+- **Multi-Hop Reasoning**: KGs excel in traversing complex relationships, enriching query depth.
+- **Efficiency**: Queries on KGs are faster and reduce computational loads on LLMs.
+- **Explainability**: Answers are traceable to specific KG elements, improving trust and understanding.
+
+KGs, when combined with RAG and LLMs, offer a robust system for extracting and querying information. They leverage KGs for precise data retrieval, RAG for relevant context, and LLMs for generating fluent and accurate responses, making them ideal for advanced question-answering applications.
+
 ## Methodology
 
 We propose a methodology to transform unstructured textual data into knowledge graphs (KGs) using the Llama 3.1 (8B) language model and the Neo4j graph database. This approach, inspired by resources like the GitHub project “GraphRAG-with-Llama-3.1,” focuses on an integrated, high-performance solution for extracting, structuring, and querying knowledge:
