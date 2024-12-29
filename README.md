@@ -298,3 +298,14 @@ The document establishes a comprehensive framework for the digitization of publi
 
 - Invoke the chain on a question.
 - Display the final answer, showing references to “Graph data” or “Vector data”.
+
+## Results
+
+![](assets/13.png)
+![](assets/14.png)
+![](assets/15.png)
+![](assets/16.png)
+![](assets/17.png)
+![](assets/18.png)
+![](assets/19.png)
+![](assets/20.png)
