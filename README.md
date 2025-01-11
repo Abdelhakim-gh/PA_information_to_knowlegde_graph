@@ -309,3 +309,5 @@ The document establishes a comprehensive framework for the digitization of publi
 ![](assets/18.png)
 ![](assets/19.png)
 ![](assets/20.png)
+![](assets/21.jpg)
+![](assets/22.jpg)
